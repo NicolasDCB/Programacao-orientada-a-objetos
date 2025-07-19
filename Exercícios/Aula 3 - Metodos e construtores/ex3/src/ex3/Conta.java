@@ -9,16 +9,12 @@ package ex3;
  * @author nicol
  */
 public class Conta {
-    private String nome;
-    private String conta;
     private double saldo;
     
     public void setNome(String nome){
-        this.nome = nome;
     }
     
     public void setConta(String conta){
-        this.conta = conta;
     }
     
     public void setSaldo(double saldo){
