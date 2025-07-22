@@ -21,14 +21,3 @@ Os exercícios estão organizados por temas ou aulas. Cada pasta contém os arqu
 - Composição e Agregação  
 - Estruturas de dados básicas com POO
 
-## 🛠️ Tecnologias
-
-- Linguagem: **Java (JDK 8 ou superior)**
-- IDE recomendada: **Eclipse**, **IntelliJ IDEA** ou **VS Code com Extensão Java**
-
-## 📌 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd nome-da-pasta
